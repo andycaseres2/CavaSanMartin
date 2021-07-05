@@ -631,7 +631,7 @@
 @media (min-width: 375px) {
   .container-iconos {
     position: relative;
-    bottom: 320px;
+    bottom: 390px;
     right: 230px;
     width: 500px;
   }
@@ -720,7 +720,7 @@
 @media (min-width: 1440px) {
   .container-iconos {
     position: relative;
-    bottom: 420px;
+    bottom: 380px;
     right: 530px;
     width: 800px;
   }
