@@ -642,10 +642,10 @@
     width: 50px;
   }
 }
-@media (min-width: 414px) {
+@media only screen and (min-width: 414px) and (max-width: 736px) {
   .container-iconos {
     position: relative;
-    bottom: 360px;
+    top: -350px;
     right: 240px;
     width: 500px;
   }
@@ -660,7 +660,7 @@
 @media (min-width: 1024px) {
   .container-iconos {
     position: relative;
-    bottom: 370px;
+    bottom: 390px;
     right: 430px;
     width: 800px;
   }
