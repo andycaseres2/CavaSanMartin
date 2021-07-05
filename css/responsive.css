@@ -628,15 +628,15 @@
 }
 /*Medias Manuales*/
 
-@media only screen and (min-width: 375px) and (max-width: 812px) {
+@media only screen and (min-width: 375px) and (max-width: 667px) {
   .container-iconos {
     position: absolute;
-    bottom: 500px;
+    bottom: 480px;
     right: 90px;
     width: 500px;
   }
   .ws-icon img {
-    top: 550px;
+    top: 480px;
     right: 50px;
     height: 50px;
     width: 50px;
