@@ -218,7 +218,7 @@ button:focus {
     Slider
 -------------------------------------------------------------------*/
 .container-iconos {
-  position: relative;
+  position: absolute;
   bottom: 350px;
   right: 700px;
 }

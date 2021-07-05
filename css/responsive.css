@@ -628,12 +628,26 @@
 }
 /*Medias Manuales*/
 
-@media only screen and (min-width: 375px) and (max-width: 667px) {
+@media only screen and (min-width: 375px) and (max-width: 812px) {
   .container-iconos {
-    position: relative;
-    top: -320px;
-    right: 230px;
+    position: absolute;
+    bottom: 500px;
+    right: 90px;
     width: 500px;
+  }
+  .ws-icon img {
+    top: 550px;
+    right: 50px;
+    height: 50px;
+    width: 50px;
+  }
+}
+@media (min-width: 414px) {
+  .container-iconos {
+    position: absolute;
+    bottom: 470px;
+    right: 80px;
+    width: 600px;
   }
   .ws-icon img {
     top: 500px;
@@ -641,50 +655,18 @@
     height: 50px;
     width: 50px;
   }
-  .h1-tarjetas {
-    position: relative;
-    top: 50px;
-  }
-}
-@media only screen and (min-width: 414px) and (max-width: 736px) {
-  .container-iconos {
-    position: relative;
-    top: -350px;
-    right: 240px;
-    width: 500px;
-  }
-  .ws-icon img {
-    top: 500px;
-    right: 50px;
-    height: 60px;
-    width: 60px;
-  }
-}
-@media only screen and (min-width: 375px) and (max-width: 812px) {
-  .container-iconos {
-    position: relative;
-    top: -440px;
-    right: 240px;
-    width: 500px;
-  }
-  .ws-icon img {
-    top: 500px;
-    right: 50px;
-    height: 60px;
-    width: 60px;
-  }
 }
 
 @media (min-width: 1024px) {
   .container-iconos {
-    position: relative;
-    bottom: 390px;
-    right: 430px;
+    position: absolute;
+    bottom: 590px;
+    right: 530px;
     width: 800px;
   }
   .ws-icon img {
     top: 500px;
-    right: 100px;
+    right: 50px;
     height: 70px;
     width: 70px;
   }
@@ -692,9 +674,9 @@
 
 @media (min-width: 1152px) {
   .container-iconos {
-    position: relative;
-    bottom: 420px;
-    right: 480px;
+    position: absolute;
+    bottom: 640px;
+    right: 620px;
     width: 800px;
   }
   .ws-icon img {
@@ -707,9 +689,9 @@
 
 @media (min-width: 1280px) {
   .container-iconos {
-    position: relative;
-    bottom: 380px;
-    right: 450px;
+    position: absolute;
+    bottom: 580px;
+    right: 800px;
     width: 800px;
   }
   .ws-icon img {
@@ -722,9 +704,9 @@
 
 @media (min-width: 1366px) {
   .container-iconos {
-    position: relative;
-    bottom: 370px;
-    right: 500px;
+    position: absolute;
+    bottom: 570px;
+    right: 800px;
     width: 800px;
   }
   .ws-icon img {
@@ -737,9 +719,9 @@
 
 @media (min-width: 1440px) {
   .container-iconos {
-    position: relative;
-    bottom: 380px;
-    right: 530px;
+    position: absolute;
+    bottom: 640px;
+    right: 860px;
     width: 800px;
   }
   .ws-icon img {
