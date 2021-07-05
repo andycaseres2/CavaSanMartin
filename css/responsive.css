@@ -627,10 +627,11 @@
   }
 }
 /*Medias Manuales*/
-@media (max-width: 374px) and (min-width: 320px) {
+
+@media only screen and (min-width: 375px) and (max-width: 667px) {
   .container-iconos {
     position: relative;
-    bottom: 310px;
+    top: -320px;
     right: 230px;
     width: 500px;
   }
@@ -639,21 +640,6 @@
     right: 50px;
     height: 50px;
     width: 50px;
-  }
-}
-
-@media (min-width: 375px) {
-  .container-iconos {
-    position: relative;
-    bottom: 370px;
-    right: 230px;
-    width: 500px;
-  }
-  .ws-icon img {
-    top: 500px;
-    right: 50px;
-    height: 55px;
-    width: 55px;
   }
 }
 @media (min-width: 414px) {
