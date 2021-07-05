@@ -466,9 +466,9 @@
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
   .container-iconos {
-    position: relative;
-    bottom: 390px;
-    right: 240px;
+    position: absolute;
+    bottom: 550px;
+    right: 5px;
     width: 500px;
     display: flex;
     justify-content: center;
@@ -496,17 +496,6 @@
 }
 
 @media (min-width: 641px) {
-  .container-iconos {
-    position: relative;
-    bottom: 360px;
-    right: 290px;
-    width: 500px;
-  }
-  .ws-icon img {
-    top: 600px;
-    height: 50px;
-    width: 50px;
-  }
   .footer-area {
     padding-top: 50px;
     padding-bottom: 0px;
@@ -625,6 +614,17 @@
     background: #010101;
     color: #ffffff;
   }
+  .container-iconos {
+    position: absolute;
+    bottom: 360px;
+    right: 550px;
+    width: 500px;
+  }
+  .ws-icon img {
+    top: 600px;
+    height: 50px;
+    width: 50px;
+  }
 }
 /*Medias Manuales*/
 
@@ -681,6 +681,20 @@
   }
   .ws-icon img {
     top: 500px;
+    right: 100px;
+    height: 70px;
+    width: 70px;
+  }
+}
+@media (min-width: 768px) {
+  .container-iconos {
+    position: absolute;
+    bottom: 800px;
+    right: 300px;
+    width: 800px;
+  }
+  .ws-icon img {
+    top: 600px;
     right: 100px;
     height: 70px;
     width: 70px;
