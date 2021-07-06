@@ -1368,3 +1368,16 @@ button:focus {
 .ws-icon img:hover {
   transform: scale(1.1);
 }
+
+.ws-venta h4 {
+  position: relative;
+  left: 50px;
+  font-size: 40px;
+}
+
+.ws-venta img {
+  width: 80px;
+  height: 80px;
+  position: relative;
+  left: 110px;
+}
