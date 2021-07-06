@@ -802,3 +802,26 @@
     width: 80px;
   }
 }
+
+@media (min-width: 1920px) {
+  .container-iconos {
+    position: absolute;
+    bottom: 700px;
+    left: -770px;
+    width: 800px;
+  }
+  .ws-icon img {
+    top: 700px;
+    right: 100px;
+    height: 80px;
+    width: 80px;
+  }
+  .navbar-nav {
+    height: 50px;
+  }
+
+  .navbar-nav li {
+    display: flex;
+    align-items: center;
+  }
+}
