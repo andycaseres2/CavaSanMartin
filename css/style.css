@@ -437,6 +437,7 @@ button:focus {
   margin: 30px 0px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .gallery-single {
@@ -456,6 +457,10 @@ button:focus {
   padding: 12px 12px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .why-text h4 {
   color: #ffffff;
@@ -1375,13 +1380,12 @@ button:focus {
 
 .ws-venta h4 {
   position: relative;
-  left: 50px;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .ws-venta img {
-  width: 80px;
-  height: 80px;
+  width: 70px;
+  height: 70px;
   position: relative;
-  left: 110px;
+  left: 40px;
 }
