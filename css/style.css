@@ -435,6 +435,8 @@ button:focus {
 
 .gallery-single {
   margin: 30px 0px;
+  display: flex;
+  justify-content: center;
 }
 
 .gallery-single {
@@ -479,7 +481,9 @@ button:focus {
 .gallery-single:hover .why-text {
   bottom: 0px;
 }
-
+.img-fluid {
+  height: 300px;
+}
 /*------------------------------------------------------------------
     Gallery
 -------------------------------------------------------------------*/
