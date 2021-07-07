@@ -632,7 +632,7 @@
   .container-iconos {
     position: relative;
     bottom: 500px;
-    right: 230px;
+    right: 80px;
     width: 500px;
   }
   .ws-icon img {
@@ -646,7 +646,7 @@
   .container-iconos {
     position: absolute;
     bottom: 550px;
-    right: 230px;
+    right: 80px;
     width: 500px;
     z-index: -1;
   }
@@ -662,7 +662,7 @@
   .container-iconos {
     position: absolute;
     bottom: 590px;
-    right: 290px;
+    right: 80px;
     width: 600px;
     z-index: -1;
   }
@@ -692,7 +692,7 @@
   .container-iconos {
     position: absolute;
     bottom: 570px;
-    right: 280px;
+    right: 220px;
     width: 600px;
     z-index: -1;
   }
@@ -706,8 +706,8 @@
 @media (min-width: 600px) {
   .container-iconos {
     position: absolute;
-    bottom: 700px;
-    right: 310px;
+    bottom: 600px;
+    right: 240px;
     width: 600px;
     z-index: -1;
   }
