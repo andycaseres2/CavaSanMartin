@@ -216,11 +216,7 @@ button:focus {
 /*------------------------------------------------------------------
     Slider
 -------------------------------------------------------------------*/
-.container-iconos {
-  position: absolute;
-  bottom: 350px;
-  right: 700px;
-}
+
 .cover-slides {
   height: 100vh;
 }
@@ -255,6 +251,13 @@ button:focus {
 }
 .cover-slides .container > .row {
   height: 100%;
+}
+
+.cover-slides .container > .row1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .btn {
