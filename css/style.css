@@ -218,11 +218,7 @@ button:focus {
 /*------------------------------------------------------------------
     Slider
 -------------------------------------------------------------------*/
-.container-iconos {
-  position: absolute;
-  bottom: 350px;
-  right: 700px;
-}
+
 .cover-slides {
   height: 100vh;
 }
