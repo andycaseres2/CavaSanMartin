@@ -1389,3 +1389,8 @@ button:focus {
   position: relative;
   left: 40px;
 }
+
+.cover-slides .container-iconos {
+  display: flex;
+  justify-content: center;
+}
