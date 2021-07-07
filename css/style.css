@@ -325,6 +325,13 @@ button:focus {
   border: 2px solid #5c4c31;
 }
 
+.text-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 /*------------------------------------------------------------------
     About
 -------------------------------------------------------------------*/
