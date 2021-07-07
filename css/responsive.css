@@ -620,7 +620,7 @@
   .container-iconos {
     position: absolute;
     bottom: 480px;
-    right: 80px;
+    right: 100px;
     width: 500px;
   }
   .ws-icon img {
@@ -635,7 +635,7 @@
   .container-iconos {
     position: absolute;
     bottom: 530px;
-    right: 80px;
+    right: 100px;
     width: 600px;
   }
   .ws-icon img {
@@ -649,7 +649,7 @@
   .container-iconos {
     position: absolute;
     bottom: 540px;
-    right: 80px;
+    right: 100px;
     width: 600px;
   }
   .ws-icon img {
