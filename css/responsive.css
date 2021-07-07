@@ -634,6 +634,7 @@
     bottom: 530px;
     right: 100px;
     width: 500px;
+    z-index: 999;
   }
   .ws-icon img {
     top: 550px;
@@ -648,7 +649,7 @@
     bottom: 480px;
     right: 100px;
     width: 500px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 550px;
@@ -664,7 +665,7 @@
     bottom: 530px;
     right: 100px;
     width: 600px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 550px;
@@ -679,7 +680,7 @@
     bottom: 540px;
     right: 100px;
     width: 600px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 530px;
@@ -694,7 +695,7 @@
     bottom: 530px;
     right: 220px;
     width: 600px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 600px;
@@ -709,7 +710,7 @@
     bottom: 540px;
     right: 240px;
     width: 600px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 650px;
@@ -724,7 +725,7 @@
     bottom: 700px;
     right: 300px;
     width: 800px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 600px;
@@ -740,7 +741,7 @@
     bottom: 590px;
     right: 530px;
     width: 800px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 500px;
@@ -756,7 +757,7 @@
     bottom: 640px;
     right: 620px;
     width: 800px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 500px;
@@ -772,7 +773,7 @@
     bottom: 580px;
     right: 800px;
     width: 800px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 500px;
@@ -788,7 +789,7 @@
     bottom: 570px;
     right: 800px;
     width: 800px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 530px;
@@ -804,7 +805,7 @@
     bottom: 640px;
     right: 860px;
     width: 800px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 550px;
@@ -820,7 +821,7 @@
     bottom: 700px;
     left: -770px;
     width: 800px;
-    z-index: -1;
+    z-index: 999;
   }
   .ws-icon img {
     top: 700px;
