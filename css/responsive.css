@@ -605,9 +605,8 @@
 @media (min-width: 360px) {
   .container-iconos {
     position: relative;
-    bottom: 530px;
-    right: 100px;
-    width: 500px;
+    bottom: 400px;
+    right: 140px;
   }
   .ws-icon img {
     top: 550px;
@@ -619,9 +618,10 @@
 @media (min-width: 375px) {
   .container-iconos {
     position: absolute;
-    bottom: 480px;
-    right: 100px;
-    width: 500px;
+    bottom: 500px;
+    right: 190px;
+    width: 300px;
+    height: 100px;
   }
   .ws-icon img {
     top: 550px;
@@ -633,10 +633,10 @@
 
 @media (min-width: 411px) {
   .container-iconos {
+    border: 10px solid red;
     position: absolute;
-    bottom: 530px;
-    right: 80px;
-    width: 600px;
+    bottom: 500px;
+    right: 220px;
   }
   .ws-icon img {
     top: 550px;
@@ -648,9 +648,8 @@
 @media (min-width: 414px) {
   .container-iconos {
     position: absolute;
-    bottom: 540px;
-    right: 100px;
-    width: 600px;
+    bottom: 500px;
+    right: 220px;
   }
   .ws-icon img {
     top: 530px;
@@ -662,9 +661,8 @@
 @media (min-width: 540px) {
   .container-iconos {
     position: absolute;
-    bottom: 530px;
-    right: 220px;
-    width: 600px;
+    bottom: 500px;
+    right: 360px;
   }
   .ws-icon img {
     top: 600px;
@@ -676,9 +674,8 @@
 @media (min-width: 600px) {
   .container-iconos {
     position: absolute;
-    bottom: 540px;
-    right: 240px;
-    width: 600px;
+    bottom: 500px;
+    right: 380px;
   }
   .ws-icon img {
     top: 650px;
@@ -690,9 +687,10 @@
 @media (min-width: 768px) {
   .container-iconos {
     position: absolute;
-    bottom: 700px;
-    right: 300px;
-    width: 800px;
+    bottom: 650px;
+    right: 470px;
+    width: 500px;
+    height: 200px;
   }
   .ws-icon img {
     top: 600px;
@@ -705,9 +703,9 @@
 @media (min-width: 1024px) {
   .container-iconos {
     position: absolute;
-    bottom: 590px;
-    right: 530px;
-    width: 800px;
+    bottom: 580px;
+    right: 720px;
+    width: 500px;
   }
   .ws-icon img {
     top: 500px;
@@ -720,9 +718,9 @@
 @media (min-width: 1152px) {
   .container-iconos {
     position: absolute;
-    bottom: 640px;
-    right: 620px;
-    width: 800px;
+    bottom: 540px;
+    right: 520px;
+    width: 500px;
   }
   .ws-icon img {
     top: 500px;
@@ -735,9 +733,9 @@
 @media (min-width: 1280px) {
   .container-iconos {
     position: absolute;
-    bottom: 580px;
-    right: 800px;
-    width: 800px;
+    bottom: 570px;
+    right: 940px;
+    width: 500px;
   }
   .ws-icon img {
     top: 500px;
@@ -751,8 +749,8 @@
   .container-iconos {
     position: absolute;
     bottom: 570px;
-    right: 800px;
-    width: 800px;
+    right: 960px;
+    width: 500px;
   }
   .ws-icon img {
     top: 530px;
@@ -765,9 +763,8 @@
 @media (min-width: 1440px) {
   .container-iconos {
     position: absolute;
-    bottom: 640px;
-    right: 860px;
-    width: 800px;
+    bottom: 580px;
+    right: 1040px;
   }
   .ws-icon img {
     top: 550px;
@@ -781,8 +778,8 @@
   .container-iconos {
     position: absolute;
     bottom: 700px;
-    left: -770px;
-    width: 800px;
+    left: -650px;
+    width: 600px;
   }
   .ws-icon img {
     top: 700px;
