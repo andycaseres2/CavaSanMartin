@@ -1390,7 +1390,14 @@ button:focus {
   left: 40px;
 }
 
-.cover-slides .container-iconos {
+.container-iconos {
   display: flex;
   justify-content: center;
+  align-items: center;
+}
+
+.container-iconos .pago {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
