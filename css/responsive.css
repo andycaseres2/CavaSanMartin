@@ -620,7 +620,7 @@
 @media (min-width: 375px) {
   .container-iconos img {
     position: absolute;
-    bottom: 450px;
+    bottom: 500px;
     right: 220px;
   }
   .ws-icon img {
