@@ -324,12 +324,7 @@ button:focus {
   background: #5c4c31;
   border: 2px solid #5c4c31;
 }
-.container-img {
-  position: relative;
-  width: 300px;
-  height: 100px;
-  left: -550px;
-}
+
 /*------------------------------------------------------------------
     About
 -------------------------------------------------------------------*/
