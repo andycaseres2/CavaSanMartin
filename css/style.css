@@ -324,6 +324,9 @@ button:focus {
   display: flex;
   justify-content: center;
   align-items: center;
+  position: absolute;
+  width: 200px;
+  height: 100px;
 }
 /*------------------------------------------------------------------
     About
