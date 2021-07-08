@@ -622,6 +622,9 @@
     position: absolute;
     bottom: 460px;
     right: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   .ws-icon img {
     top: 550px;
