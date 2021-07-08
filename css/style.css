@@ -221,6 +221,10 @@ button:focus {
 
 .cover-slides {
   height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .slides-navigation a {
   background: #5c4c31;
