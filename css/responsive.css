@@ -604,7 +604,7 @@
 
 @media (min-width: 360px) {
   .container-iconos {
-    position: relative;
+    position: absolute;
     bottom: 250px;
     right: 50px;
     width: 200px;
