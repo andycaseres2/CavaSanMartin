@@ -618,10 +618,13 @@
   }
 }
 @media (min-width: 375px) {
-  .container-iconos img {
+  .container-iconos {
     position: absolute;
     bottom: 500px;
     right: 220px;
+  }
+  .container-iconos img {
+    position: relative;
   }
   .ws-icon img {
     top: 550px;
