@@ -475,6 +475,22 @@
   }
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
+  .bancos-icons {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+
+  .bancos-icons > img {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 300px !important;
+    height: 120px !important;
+    max-width: 500px !important;
+    left: 10px !important;
+    top: -100px !important;
+  }
   .bancos {
     font-size: 22px;
   }
@@ -619,8 +635,11 @@
 /*Medias Manuales*/
 
 @media (min-width: 360px) {
+  .bancos-icons > img {
+    left: 30px !important;
+  }
   .ws-icon img {
-    top: 550px;
+    top: 600px;
     right: 50px;
     height: 50px;
     width: 50px;
@@ -628,7 +647,7 @@
 
   @media (min-width: 375px) {
     .ws-icon img {
-      top: 550px;
+      top: 600px;
       right: 50px;
       height: 50px;
       width: 50px;
@@ -636,37 +655,49 @@
   }
 
   @media (min-width: 411px) {
+    .bancos-icons > img {
+      left: 60px !important;
+    }
     .ws-icon img {
-      top: 550px;
+      top: 600px;
       right: 50px;
       height: 50px;
       width: 50px;
     }
   }
   @media (min-width: 412px) {
+    .bancos-icons > img {
+      left: 60px !important;
+    }
     .ws-icon img {
-      top: 550px;
+      top: 600px;
       right: 50px;
       height: 50px;
       width: 50px;
     }
   }
   @media (min-width: 414px) {
+    .bancos-icons > img {
+      left: 60px !important;
+    }
     .container-iconos {
       position: absolute;
       bottom: 440px;
       right: 250px;
     }
     .ws-icon img {
-      top: 530px;
+      top: 560px;
       right: 50px;
       height: 50px;
       width: 50px;
     }
   }
   @media (min-width: 425px) {
+    .bancos-icons > img {
+      left: 60px !important;
+    }
     .ws-icon img {
-      top: 530px;
+      top: 560px;
       right: 50px;
       height: 50px;
       width: 50px;
@@ -681,6 +712,9 @@
     }
   }
   @media (min-width: 600px) {
+    .bancos-icons > img {
+      left: 0px !important;
+    }
     .ws-icon img {
       top: 650px;
       right: 50px;
@@ -689,8 +723,11 @@
     }
   }
   @media (min-width: 768px) {
+    .bancos-icons > img {
+      left: 150px !important;
+    }
     .ws-icon img {
-      top: 600px;
+      top: 650px;
       right: 100px;
       height: 70px;
       width: 70px;
@@ -698,8 +735,11 @@
   }
 
   @media (min-width: 1024px) {
+    .bancos-icons > img {
+      left: 170px !important;
+    }
     .ws-icon img {
-      top: 500px;
+      top: 550px;
       right: 50px;
       height: 70px;
       width: 70px;
@@ -708,7 +748,7 @@
 
   @media (min-width: 1152px) {
     .ws-icon img {
-      top: 500px;
+      top: 550px;
       right: 100px;
       height: 70px;
       width: 70px;
@@ -717,7 +757,7 @@
 
   @media (min-width: 1280px) {
     .ws-icon img {
-      top: 500px;
+      top: 550px;
       right: 100px;
       height: 70px;
       width: 70px;
@@ -726,7 +766,7 @@
 
   @media (min-width: 1366px) {
     .ws-icon img {
-      top: 530px;
+      top: 550px;
       right: 100px;
       height: 70px;
       width: 70px;
@@ -735,7 +775,7 @@
 
   @media (min-width: 1440px) {
     .ws-icon img {
-      top: 550px;
+      top: 600px;
       right: 100px;
       height: 80px;
       width: 80px;
@@ -744,7 +784,7 @@
 
   @media (min-width: 1920px) {
     .ws-icon img {
-      top: 700px;
+      top: 750px;
       right: 100px;
       height: 80px;
       width: 80px;

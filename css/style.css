@@ -219,6 +219,17 @@ button:focus {
     Slider
 -------------------------------------------------------------------*/
 
+.bancos-icons > img {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 400px !important;
+  height: 120px !important;
+  max-width: 500px !important;
+  left: 190px !important;
+  top: -100px !important;
+}
+
 .cover-slides {
   height: 100vh;
 }
@@ -327,15 +338,6 @@ button:focus {
 .slides-pagination a.current {
   background: #5c4c31;
   border: 2px solid #5c4c31;
-}
-
-.bancos {
-  color: #5c4c31;
-  background-color: white;
-  border-radius: 10px;
-  letter-spacing: 15px;
-  padding-inline-start: 10px;
-  font-size: 40px;
 }
 
 .number {
