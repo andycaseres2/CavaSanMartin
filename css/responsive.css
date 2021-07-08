@@ -620,10 +620,8 @@
 @media (min-width: 375px) {
   .container-iconos {
     position: absolute;
-    bottom: 470px;
-    right: 200px;
-    width: 200px;
-    height: 100px;
+    bottom: 450px;
+    right: 220px;
   }
   .ws-icon img {
     top: 550px;
@@ -672,6 +670,19 @@
     width: 50px;
   }
 }
+@media (min-width: 425px) {
+  .container-iconos {
+    position: absolute;
+    bottom: 500px;
+    right: 270px;
+  }
+  .ws-icon img {
+    top: 530px;
+    right: 50px;
+    height: 50px;
+    width: 50px;
+  }
+}
 @media (min-width: 540px) {
   .container-iconos {
     position: absolute;
@@ -702,9 +713,9 @@
   .container-iconos {
     position: absolute;
     bottom: 650px;
-    right: 470px;
-    width: 500px;
-    height: 200px;
+    right: 550px;
+    width: 300px;
+    height: 150px;
   }
   .ws-icon img {
     top: 600px;
@@ -778,7 +789,7 @@
   .container-iconos {
     position: absolute;
     bottom: 580px;
-    right: 950px;
+    right: 970px;
   }
   .ws-icon img {
     top: 550px;
