@@ -621,10 +621,7 @@
   .container-iconos {
     position: absolute;
     bottom: 470px;
-    right: 220px;
-  }
-  .container-iconos img {
-    position: relative;
+    right: 210px;
   }
   .ws-icon img {
     top: 550px;

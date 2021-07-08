@@ -245,9 +245,6 @@ button:focus {
   height: 100%;
   position: relative;
   z-index: 2;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 .cover-slides .container > .row {
   -webkit-box-align: center;
