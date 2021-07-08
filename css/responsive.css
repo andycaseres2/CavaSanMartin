@@ -603,144 +603,143 @@
 /*Medias Manuales*/
 
 @media (min-width: 360px) {
-  lign-items: center;
-}
-.ws-icon img {
-  top: 550px;
-  right: 50px;
-  height: 50px;
-  width: 50px;
-}
-
-@media (min-width: 375px) {
   .ws-icon img {
     top: 550px;
     right: 50px;
     height: 50px;
     width: 50px;
   }
-}
 
-@media (min-width: 411px) {
-  .ws-icon img {
-    top: 550px;
-    right: 50px;
-    height: 50px;
-    width: 50px;
-  }
-}
-@media (min-width: 412px) {
-  .ws-icon img {
-    top: 550px;
-    right: 50px;
-    height: 50px;
-    width: 50px;
-  }
-}
-@media (min-width: 414px) {
-  .container-iconos {
-    position: absolute;
-    bottom: 440px;
-    right: 250px;
-  }
-  .ws-icon img {
-    top: 530px;
-    right: 50px;
-    height: 50px;
-    width: 50px;
-  }
-}
-@media (min-width: 425px) {
-  .ws-icon img {
-    top: 530px;
-    right: 50px;
-    height: 50px;
-    width: 50px;
-  }
-}
-@media (min-width: 540px) {
-  .ws-icon img {
-    top: 600px;
-    right: 50px;
-    height: 50px;
-    width: 50px;
-  }
-}
-@media (min-width: 600px) {
-  .ws-icon img {
-    top: 650px;
-    right: 50px;
-    height: 50px;
-    width: 50px;
-  }
-}
-@media (min-width: 768px) {
-  .ws-icon img {
-    top: 600px;
-    right: 100px;
-    height: 70px;
-    width: 70px;
-  }
-}
-
-@media (min-width: 1024px) {
-  .ws-icon img {
-    top: 500px;
-    right: 50px;
-    height: 70px;
-    width: 70px;
-  }
-}
-
-@media (min-width: 1152px) {
-  .ws-icon img {
-    top: 500px;
-    right: 100px;
-    height: 70px;
-    width: 70px;
-  }
-}
-
-@media (min-width: 1280px) {
-  .ws-icon img {
-    top: 500px;
-    right: 100px;
-    height: 70px;
-    width: 70px;
-  }
-}
-
-@media (min-width: 1366px) {
-  .ws-icon img {
-    top: 530px;
-    right: 100px;
-    height: 70px;
-    width: 70px;
-  }
-}
-
-@media (min-width: 1440px) {
-  .ws-icon img {
-    top: 550px;
-    right: 100px;
-    height: 80px;
-    width: 80px;
-  }
-}
-
-@media (min-width: 1920px) {
-  .ws-icon img {
-    top: 700px;
-    right: 100px;
-    height: 80px;
-    width: 80px;
-  }
-  .navbar-nav {
-    height: 50px;
+  @media (min-width: 375px) {
+    .ws-icon img {
+      top: 550px;
+      right: 50px;
+      height: 50px;
+      width: 50px;
+    }
   }
 
-  .navbar-nav li {
-    display: flex;
-    align-items: center;
+  @media (min-width: 411px) {
+    .ws-icon img {
+      top: 550px;
+      right: 50px;
+      height: 50px;
+      width: 50px;
+    }
+  }
+  @media (min-width: 412px) {
+    .ws-icon img {
+      top: 550px;
+      right: 50px;
+      height: 50px;
+      width: 50px;
+    }
+  }
+  @media (min-width: 414px) {
+    .container-iconos {
+      position: absolute;
+      bottom: 440px;
+      right: 250px;
+    }
+    .ws-icon img {
+      top: 530px;
+      right: 50px;
+      height: 50px;
+      width: 50px;
+    }
+  }
+  @media (min-width: 425px) {
+    .ws-icon img {
+      top: 530px;
+      right: 50px;
+      height: 50px;
+      width: 50px;
+    }
+  }
+  @media (min-width: 540px) {
+    .ws-icon img {
+      top: 600px;
+      right: 50px;
+      height: 50px;
+      width: 50px;
+    }
+  }
+  @media (min-width: 600px) {
+    .ws-icon img {
+      top: 650px;
+      right: 50px;
+      height: 50px;
+      width: 50px;
+    }
+  }
+  @media (min-width: 768px) {
+    .ws-icon img {
+      top: 600px;
+      right: 100px;
+      height: 70px;
+      width: 70px;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .ws-icon img {
+      top: 500px;
+      right: 50px;
+      height: 70px;
+      width: 70px;
+    }
+  }
+
+  @media (min-width: 1152px) {
+    .ws-icon img {
+      top: 500px;
+      right: 100px;
+      height: 70px;
+      width: 70px;
+    }
+  }
+
+  @media (min-width: 1280px) {
+    .ws-icon img {
+      top: 500px;
+      right: 100px;
+      height: 70px;
+      width: 70px;
+    }
+  }
+
+  @media (min-width: 1366px) {
+    .ws-icon img {
+      top: 530px;
+      right: 100px;
+      height: 70px;
+      width: 70px;
+    }
+  }
+
+  @media (min-width: 1440px) {
+    .ws-icon img {
+      top: 550px;
+      right: 100px;
+      height: 80px;
+      width: 80px;
+    }
+  }
+
+  @media (min-width: 1920px) {
+    .ws-icon img {
+      top: 700px;
+      right: 100px;
+      height: 80px;
+      width: 80px;
+    }
+    .navbar-nav {
+      height: 50px;
+    }
+
+    .navbar-nav li {
+      display: flex;
+      align-items: center;
+    }
   }
 }

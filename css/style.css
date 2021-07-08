@@ -280,6 +280,7 @@ button:focus {
   border-radius: 0.1875rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  margin-top: 20px;
 }
 .btn-outline-new-white {
   color: #fff;
@@ -325,6 +326,29 @@ button:focus {
   border: 2px solid #5c4c31;
 }
 
+.bancos {
+  color: #5c4c31;
+  background-color: white;
+  border-radius: 10px;
+  letter-spacing: 15px;
+  padding-inline-start: 10px;
+}
+.slides3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.number {
+  background-color: white;
+  color: #5c4c31;
+  border-radius: 10px;
+  margin-inline-start: 20px;
+  font-size: 23px;
+  line-height: 40px;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+  width: 250px;
+}
 /*------------------------------------------------------------------
     About
 -------------------------------------------------------------------*/
