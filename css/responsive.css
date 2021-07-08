@@ -465,6 +465,17 @@
   }
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
+  .container-iconos {
+    position: absolute;
+    bottom: 500px;
+    left: -120px;
+  }
+  .ws-icon img {
+    top: 550px;
+    right: 50px;
+    height: 50px;
+    width: 50px;
+  }
   .why-text p {
     margin-bottom: 0px;
     margin-top: 0px;
@@ -605,24 +616,10 @@
 @media (min-width: 360px) {
   .container-iconos {
     position: absolute;
-    bottom: 250px;
-    right: 50px;
+    bottom: 400px;
   }
   .ws-icon img {
     top: 450px;
-    right: 50px;
-    height: 50px;
-    width: 50px;
-  }
-}
-@media (min-width: 375px) {
-  .container-iconos {
-    position: absolute;
-    bottom: 460px;
-    right: 140px;
-  }
-  .ws-icon img {
-    top: 550px;
     right: 50px;
     height: 50px;
     width: 50px;
@@ -645,8 +642,8 @@
 @media (min-width: 412px) {
   .container-iconos {
     position: absolute;
-    bottom: 380px;
-    right: 240px;
+    bottom: 450px;
+    right: 160px;
   }
   .ws-icon img {
     top: 550px;
@@ -672,7 +669,7 @@
   .container-iconos {
     position: absolute;
     bottom: 500px;
-    right: 270px;
+    right: 160px;
   }
   .ws-icon img {
     top: 530px;
@@ -710,7 +707,7 @@
 @media (min-width: 768px) {
   .container-iconos {
     position: absolute;
-    bottom: 650px;
+    bottom: 600px;
     right: 550px;
     width: 300px;
     height: 150px;
