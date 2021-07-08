@@ -257,6 +257,9 @@ button:focus {
 }
 .cover-slides .container > .row {
   height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .btn {
@@ -307,7 +310,7 @@ button:focus {
 .cover-slides h1 {
   font-family: "Arbutus Slab", serif;
   font-weight: 500;
-  font-size: 48px;
+  font-size: 40px;
   color: #fff;
   display: flex;
   justify-content: center;
@@ -332,23 +335,27 @@ button:focus {
   border-radius: 10px;
   letter-spacing: 15px;
   padding-inline-start: 10px;
-}
-.slides3 {
-  display: flex;
-  flex-direction: column;
+  font-size: 40px;
 }
 
 .number {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: white;
   color: #5c4c31;
   border-radius: 10px;
-  margin-inline-start: 20px;
-  font-size: 23px;
+  font-size: 50px;
   line-height: 40px;
-  padding-inline-start: 10px;
-  padding-inline-end: 10px;
-  width: 250px;
+  width: 100%;
+  transition: all 0.5s ease;
 }
+.number a {
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+}
+
 /*------------------------------------------------------------------
     About
 -------------------------------------------------------------------*/

@@ -1,6 +1,16 @@
 /* only small desktops */
 /* tablets */
 /* only small tablets */
+@media only screen and (min-width: 1441px) {
+  .navbar-nav {
+    height: 50px;
+  }
+
+  .navbar-nav li {
+    display: flex;
+    align-items: center;
+  }
+}
 
 @media only screen and (min-width: 992px) and (max-width: 1440px) {
   .f-social {
@@ -465,6 +475,12 @@
   }
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
+  .bancos {
+    font-size: 22px;
+  }
+  .number {
+    font-size: 22px;
+  }
   .why-text p {
     margin-bottom: 0px;
     margin-top: 0px;
