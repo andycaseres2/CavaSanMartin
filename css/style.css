@@ -320,7 +320,11 @@ button:focus {
   background: #5c4c31;
   border: 2px solid #5c4c31;
 }
-
+.container-iconos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 /*------------------------------------------------------------------
     About
 -------------------------------------------------------------------*/
