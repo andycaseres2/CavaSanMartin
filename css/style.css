@@ -320,7 +320,7 @@ button:focus {
   background: #5c4c31;
   border: 2px solid #5c4c31;
 }
-.container-iconos {
+.container-iconos img {
   display: flex;
   justify-content: center;
   align-items: center;
