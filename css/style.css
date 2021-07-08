@@ -324,12 +324,11 @@ button:focus {
   background: #5c4c31;
   border: 2px solid #5c4c31;
 }
-.container-iconos {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
+.container-img {
+  position: relative;
+  width: 300px;
   height: 100px;
+  left: -550px;
 }
 /*------------------------------------------------------------------
     About
