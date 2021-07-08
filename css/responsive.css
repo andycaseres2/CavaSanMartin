@@ -605,11 +605,13 @@
 @media (min-width: 360px) {
   .container-iconos {
     position: relative;
-    bottom: 400px;
-    right: 140px;
+    bottom: 250px;
+    right: 50px;
+    width: 200px;
+    height: 100px;
   }
   .ws-icon img {
-    top: 550px;
+    top: 450px;
     right: 50px;
     height: 50px;
     width: 50px;
@@ -634,8 +636,21 @@
 @media (min-width: 411px) {
   .container-iconos {
     position: absolute;
-    bottom: 500px;
-    right: 220px;
+    bottom: 480px;
+    right: 240px;
+  }
+  .ws-icon img {
+    top: 550px;
+    right: 50px;
+    height: 50px;
+    width: 50px;
+  }
+}
+@media (min-width: 412px) {
+  .container-iconos {
+    position: absolute;
+    bottom: 380px;
+    right: 240px;
   }
   .ws-icon img {
     top: 550px;
@@ -647,8 +662,8 @@
 @media (min-width: 414px) {
   .container-iconos {
     position: absolute;
-    bottom: 500px;
-    right: 220px;
+    bottom: 440px;
+    right: 250px;
   }
   .ws-icon img {
     top: 530px;
@@ -673,8 +688,8 @@
 @media (min-width: 600px) {
   .container-iconos {
     position: absolute;
-    bottom: 500px;
-    right: 380px;
+    bottom: 550px;
+    right: 400px;
   }
   .ws-icon img {
     top: 650px;
@@ -702,8 +717,8 @@
 @media (min-width: 1024px) {
   .container-iconos {
     position: absolute;
-    bottom: 580px;
-    right: 720px;
+    bottom: 500px;
+    right: 640px;
     width: 500px;
   }
   .ws-icon img {
@@ -718,7 +733,7 @@
   .container-iconos {
     position: absolute;
     bottom: 540px;
-    right: 520px;
+    right: 680px;
     width: 500px;
   }
   .ws-icon img {
@@ -732,8 +747,8 @@
 @media (min-width: 1280px) {
   .container-iconos {
     position: absolute;
-    bottom: 570px;
-    right: 940px;
+    bottom: 500px;
+    right: 840px;
     width: 500px;
   }
   .ws-icon img {
@@ -747,8 +762,8 @@
 @media (min-width: 1366px) {
   .container-iconos {
     position: absolute;
-    bottom: 570px;
-    right: 960px;
+    bottom: 500px;
+    right: 880px;
     width: 500px;
   }
   .ws-icon img {
@@ -763,7 +778,7 @@
   .container-iconos {
     position: absolute;
     bottom: 580px;
-    right: 1000px;
+    right: 950px;
   }
   .ws-icon img {
     top: 550px;
