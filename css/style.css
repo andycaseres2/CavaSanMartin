@@ -1425,3 +1425,24 @@ button:focus {
   position: relative;
   left: 40px;
 }
+
+.aviso a {
+  background-color: crimson;
+  color: white;
+  position: fixed;
+  font-weight: bold;
+  border-radius: 10px;
+  float: right;
+  top: 100px;
+  left: 40px;
+  padding: 10px;
+  font-size: 20px;
+
+  animation: swing;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+.aviso a:hover {
+  color: #5c4c31;
+}
