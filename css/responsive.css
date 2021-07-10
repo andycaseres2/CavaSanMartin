@@ -10,12 +10,17 @@
     display: flex;
     align-items: center;
   }
+  .aviso a {
+    font-size: 12px;
+    width: 280px;
+    font-size: 24px;
+  }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1440px) {
   .aviso a {
-    font-size: 14px;
-    width: 160px;
+    font-size: 20px;
+    width: 250px;
   }
   .f-social {
     padding-bottom: 10px;
@@ -204,9 +209,12 @@
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
+  .mas-productos {
+    font-size: 24px;
+  }
   .aviso a {
     font-size: 13px;
-    width: 150px;
+    width: 180px;
   }
   .f-social {
     padding-bottom: 10px;
@@ -488,6 +496,9 @@
   }
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
+  .mas-productos {
+    font-size: 22px;
+  }
   .aviso a {
     font-size: 12px;
     width: 150px;

@@ -1427,6 +1427,7 @@ button:focus {
 }
 
 .aviso a {
+  font-family: "Yatra One", cursive;
   background-color: crimson;
   color: white;
   position: fixed;
@@ -1444,4 +1445,18 @@ button:focus {
 
 .aviso a:hover {
   color: #5c4c31;
+}
+
+.mas-productos {
+  color: white;
+  font-size: 35px;
+  text-align: center;
+  transition: all 0.5s ease;
+}
+
+.mas-productos a:hover {
+  color: crimson;
+}
+.mas-productos:hover {
+  transform: scale(1.1);
 }
