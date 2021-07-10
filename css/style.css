@@ -1432,12 +1432,11 @@ button:focus {
   position: fixed;
   font-weight: bold;
   border-radius: 10px;
-  float: right;
   top: 100px;
   left: 40px;
   padding: 10px;
   font-size: 20px;
-
+  width: 20%;
   animation: swing;
   animation-duration: 3s;
   animation-iteration-count: infinite;

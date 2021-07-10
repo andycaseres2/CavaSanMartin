@@ -13,6 +13,11 @@
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1440px) {
+  .aviso a {
+    font-size: 14px;
+    width: 160px;
+    left: 15px;
+  }
   .f-social {
     padding-bottom: 10px;
     margin: 0px;
@@ -200,6 +205,11 @@
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
+  .aviso a {
+    font-size: 13px;
+    width: 150px;
+    left: 15px;
+  }
   .f-social {
     padding-bottom: 10px;
     margin: 0px;
@@ -414,6 +424,11 @@
 
 /* mobile or only mobile */
 @media (max-width: 767px) {
+  .aviso a {
+    font-size: 13px;
+    width: 150px;
+    left: 15px;
+  }
   .navbar-nav li {
     position: relative;
     top: 15px;
@@ -475,6 +490,11 @@
   }
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
+  .aviso a {
+    font-size: 12px;
+    width: 150px;
+    left: 15px;
+  }
   .bancos-icons {
     display: flex !important;
     justify-content: center !important;
