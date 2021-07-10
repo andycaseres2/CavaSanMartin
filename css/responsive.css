@@ -12,7 +12,7 @@
   }
   .aviso a {
     font-size: 12px;
-    width: 280px;
+    width: 300px;
     font-size: 24px;
   }
 }
@@ -20,7 +20,7 @@
 @media only screen and (min-width: 992px) and (max-width: 1440px) {
   .aviso a {
     font-size: 20px;
-    width: 250px;
+    width: 260px;
   }
   .f-social {
     padding-bottom: 10px;
@@ -432,7 +432,7 @@
 @media (max-width: 767px) {
   .aviso a {
     font-size: 13px;
-    width: 150px;
+    width: 180px;
     left: 15px;
   }
   .navbar-nav li {
@@ -501,7 +501,7 @@
   }
   .aviso a {
     font-size: 12px;
-    width: 150px;
+    width: 160px;
     left: 15px;
   }
   .bancos-icons {
