@@ -1428,8 +1428,9 @@ button:focus {
 
 .aviso a {
   font-family: "Yatra One", cursive;
-  background-color: #d4ac68;
-  color: black;
+  background-image: url("../img/madera.jpg");
+  background-size: cover;
+  color: white;
   position: fixed;
   font-weight: bold;
   border-radius: 10px;
