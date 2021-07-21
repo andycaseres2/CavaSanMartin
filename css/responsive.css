@@ -14,6 +14,7 @@
     font-size: 12px;
     width: 300px;
     font-size: 24px;
+    z-index: 2;
   }
 }
 
@@ -21,6 +22,7 @@
   .aviso a {
     font-size: 20px;
     width: 260px;
+    z-index: 2;
   }
   .f-social {
     padding-bottom: 10px;
@@ -215,6 +217,7 @@
   .aviso a {
     font-size: 13px;
     width: 180px;
+    z-index: 2;
   }
   .f-social {
     padding-bottom: 10px;
@@ -503,6 +506,7 @@
     font-size: 12px;
     width: 180px;
     left: 15px;
+    z-index: 2;
   }
   .bancos-icons {
     display: flex !important;
